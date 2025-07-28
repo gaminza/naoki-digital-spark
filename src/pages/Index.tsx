@@ -67,7 +67,7 @@ const Index = () => {
   ];
 
   const stats = [
-    { number: "150+", label: "Projetos Entregues" },
+    { number: "1111+", label: "Projetos Entregues" },
     { number: "95%", label: "Clientes Satisfeitos" },
     { number: "300%", label: "ROI Médio" },
     { number: "24h", label: "Suporte" }
